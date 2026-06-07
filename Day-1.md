@@ -1,7 +1,6 @@
-- [ ] I can open a Linux terminal and recognize the shell prompt (user@machine:~$)
-- getting here is getting to base camp!!
-- [x] I can run python --version, git --version, and uv --version without errors
- I can open VS Code connected to WSL/Linux using code .
+- [ ] I can open a Linux terminal and recognize the shell prompt (user@machine:~$) - getting here is getting to base camp!!
+- [x] I can run python --version, git --version, and uv --version without errors-
+- [ ] I can open VS Code connected to WSL/Linux using code .
  I know what ~ means and can navigate to my home directory using cd ~
  I can create folders and files using mkdir and touch, and list them with ls
  I know the difference between .xyz, ./xyz, and ../xyz
